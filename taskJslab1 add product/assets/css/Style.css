@@ -1,0 +1,11 @@
+/* 0.390625 * 100vh( telefon ucun 576px,  tablet 576px - 772px, */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.add_product{
+  border: 1px solid gray;
+  border-radius: 10px;
+}
